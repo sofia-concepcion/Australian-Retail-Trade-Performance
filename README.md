@@ -1,4 +1,5 @@
 # Australian Retail Trade Performance Dashboard
+by Sofia JC (linkedin.com/in/sofiajconcepcion)
 
 > Identifying underperforming retail categories to justify a $2M promotional budget reallocation — built on ABS government data using Python, SQL, and Power BI.
 
